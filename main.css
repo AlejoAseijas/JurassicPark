@@ -1,0 +1,113 @@
+*{
+  font-family: 'Roboto Mono', monospace;
+}
+
+header #imagenPuerta{
+  margin-top: 10px;
+}
+
+.menu{
+  list-style: none;
+  padding: 0;
+  background: #092327;
+  width: auto;
+  margin: auto;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li:hover{
+  background: #ef8354;
+}
+
+main .nuestraHistoria{
+  text-align: left;
+}
+
+main .resaltado{
+  font-weight: bolder;
+}
+
+main .separador{
+  border: 1px solid black;
+}
+
+main .islaNublar{
+  text-align: right;
+}
+
+main .islaNublar h2{
+  text-align: left;
+}
+
+main .islaSorna{
+  text-align: right;
+}
+
+main .islaSorna h2{
+  text-align: left;
+}
+
+main .fotos {
+  text-align: center;
+}
+
+.mapa{
+  text-align: center;
+}
+
+.mapa h2{
+  text-align: left;
+}
+
+.footerLogos{
+  width: 100%;
+  height: 40px;
+  border: 1px solid black;
+  background-color: #DCDCDC;
+}
+
+.footerLogos label{
+ margin: 1%;
+ line-height:40px;
+}
+
+.footerLogos button{
+  margin:10px;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
+a{
+  color: blue;
+  font-size: 10px;
+  top: 30px;
+}
+
+footer{
+  width: 100%;
+  height: 40px;
+  border: 1px solid black;
+  background-color: #6A5ACD;
+}
+.ig{
+  height: 30px;
+  width: 120px;
+  margin: 800px;
+  padding: 0px;
+}
+
+#webs{
+  float: right;
+}
